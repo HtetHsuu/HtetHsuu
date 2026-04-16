@@ -1,7 +1,7 @@
 ## Hi there 👋
+It's Htet Hsu Wai 
 
-<!--
-**HtetHsuu/HtetHsuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+She/her
 
 Here are some ideas to get you started:
 
