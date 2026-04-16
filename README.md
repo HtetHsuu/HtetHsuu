@@ -8,7 +8,7 @@ but we trust the process anyways! ✨
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB7C5&center=true&vCenter=true&lines=trust+the+process;💖)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB7C5&center=true&vCenter=true&lines=trust+the+process;💖💖💖)
 
 ---
 
