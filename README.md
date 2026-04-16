@@ -1,7 +1,7 @@
 ## 🌸 MY CODING ARC 🌸
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ac/22/fe/ac22fecaad492cc6ee36e1eb93b1d6d7.gif" height="180"/>
+  <img src= "https://kr.pinterest.com/pin/12596073954093768/" height="180"/>
 </p>
 Hi!! 👋  
 still pretending I know what I’m doing 🤡💻  
