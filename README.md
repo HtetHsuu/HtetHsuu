@@ -1,6 +1,8 @@
 ## 🌸 MY CODING ARC 🌸
 
-<img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" width="300"/>
+<p align="center">
+  <img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" height="180"/>
+</p>
 
 Hi!! 👋  
 still pretending I know what I’m doing 🤡💻  
