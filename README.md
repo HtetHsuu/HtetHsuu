@@ -1,9 +1,7 @@
 ## 🌸 MY CODING ARC 🌸
 
 <p align="center">
-  <img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" width="32%" height="160"/>
-  <img src="https://i.pinimg.com/originals/b3/4f/f1/b34ff13f5b9676817efb440aa26c9827.gif" width="32%" height="160"/>
-  <img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" width="32%" height="160"/>
+  <img src="https://i.pinimg.com/originals/5c/92/30/5c923036a82fa8dbdb6d69afb4732dee.gif" width="100%"/>
 </p>
 
 Hi!! 👋  
