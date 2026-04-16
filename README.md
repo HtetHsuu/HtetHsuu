@@ -1,7 +1,7 @@
 ## 🌸 MY CODING ARC 🌸
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5c/92/30/5c923036a82fa8dbdb6d69afb4732dee.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/5c/92/30/5c923036a82fa8dbdb6d69afb4732dee.gif" width="85%" height="170"/>
 </p>
 
 Hi!! 👋  
