@@ -1,6 +1,6 @@
 ## 🌸 MY CODING ARC 🌸
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+<img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" width="300"/>
 
 Hi!! 👋  
 still pretending I know what I’m doing 🤡💻  
@@ -8,7 +8,7 @@ but we trust the process anyways! ✨
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB7C5&center=true&vCenter=true&lines=still+pretending+I+know+what+I’m+doing;trust+the+process+anyway;coding+my+own+storyline)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB7C5&center=true&vCenter=true&lines=trust+the+process;💖)
 
 ---
 
