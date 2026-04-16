@@ -1,7 +1,7 @@
 ## 🌸 MY CODING ARC 🌸
 
 <p align="center">
-  <img src= "https://kr.pinterest.com/pin/12596073954093768/" height="180"/>
+  <img src="https://media.tenor.com/mAcBQBL68aUAAAAd/cherry-blossom-tree.gif" height="180"/>
 </p>
 Hi!! 👋  
 still pretending I know what I’m doing 🤡💻  
